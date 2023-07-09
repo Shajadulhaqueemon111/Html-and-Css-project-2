@@ -3,6 +3,7 @@
     text-align: right;
     padding:200px ;
    justify-content: center;
+   margin-top: 10px;
     background: url(<path-to-image>), rgb(234, 233, 233) -0.889px 0px / 100.111% 111.51% no-repeat;
 }
 .Ripo{
@@ -17,6 +18,7 @@
     width: 145px;
     height: 55px;
     color: #FFF;
+    font-size: 18px;
     
    
 }
@@ -60,4 +62,74 @@ background: rgba(241, 91, 34, 0.20);
 .Equation{
     font-size: 35px;
     font: bold;
+} 
+.title-commit{
+    text-align: left;
+    background-image:  url("/images/watch.png");
+    /* background-image: url("/images/gradient2.png"); */
+    background-repeat: no-repeat;
+    image-rendering: initial;
+    width: 1100px;
+height: 300px;
+flex-shrink: 0;
+/* background-color: #e1551e; */
+/* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%) ; */
+border-radius: 8px;
+padding: 40px 47px;
+justify-content: center;
+border:230px ;
+margin:  230px  2222px 702px 230px;
+margin-bottom: 100px;
+
+
+}
+.rever{
+    background-color: #F15B22;
+    color: #FFF;
+    border-radius: 5px;
+    font: bold;
+    font-size: 23px;
+}
+.commit{
+    font-size: 30px;
+    color: #FFF;
+    font: bold;
+    font-size: 30px;
+}
+.lorem{
+    /* margin:200px; */
+    background-color: black;
+    text-align: justify;
+    padding: 100px;
+    display: flex;
+    gap: 50px;
+       
+}
+.the{
+    color: #FFF;
+
+}
+.tm{
+color: #FFF;
+}
+.em{
+    text-align: left;
+    color: #FFF;
+    /* display: flex; */
+    gap: 50px;
+    padding:0px  0px 200px 300px ;
+
+}
+.liju{
+    color: #FFF;
+}
+.Lipo{
+    padding: 10px;
+   
+    color: #F15B22;
+    font-size: 18px;
+}
+.an{
+padding: 10px;
+font-size: 18px;
 }
