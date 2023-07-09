@@ -1,0 +1,26 @@
+.banner{
+   display: flex;
+    text-align: right;
+    padding:200px ;
+   justify-content: center;
+    background: url(<path-to-image>), rgb(234, 233, 233) -0.889px 0px / 100.111% 111.51% no-repeat;
+}
+.Ripo{
+    font-size: 40px;
+    /* width: 50px; */
+    text-align: right;
+}
+.bit-title {
+    border-radius: 5px;
+    background-color: #F15B22;
+    padding:  0px 30px;
+    width: 145px;
+    height: 55px;
+    color: #FFF;
+    
+   
+}
+.display{
+    height: 500px;
+    width: 700px;
+}
