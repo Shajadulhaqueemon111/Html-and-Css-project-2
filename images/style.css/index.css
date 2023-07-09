@@ -66,6 +66,7 @@ background: rgba(241, 91, 34, 0.20);
 .title-commit{
     text-align: left;
     background-image:  url("/images/watch.png");
+    background-blend-mode:overlay;
     /* background-image: url("/images/gradient2.png"); */
     background-repeat: no-repeat;
     image-rendering: initial;
@@ -99,7 +100,7 @@ margin-bottom: 100px;
 .lorem{
     /* margin:200px; */
     background-color: black;
-    text-align: justify;
+    text-align:justify;
     padding: 100px;
     display: flex;
     gap: 50px;
@@ -117,8 +118,8 @@ color: #FFF;
     color: #FFF;
     /* display: flex; */
     gap: 50px;
-    padding:0px  0px 200px 300px ;
-
+    padding: 0px ;
+     border: 1px solid black;
 }
 .liju{
     color: #FFF;
