@@ -1,0 +1,5 @@
+.contain{
+    display: flex;
+    text-align: right;
+    padding: 10px;
+}
